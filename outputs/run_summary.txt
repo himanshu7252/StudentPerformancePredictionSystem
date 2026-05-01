@@ -1,0 +1,13 @@
+Student Performance Prediction System Run Summary
+Dataset path: D:\IIP_Projects\StudentPerformancePredictionSystem\data\student_performance_synthetic.csv
+Model path: D:\IIP_Projects\StudentPerformancePredictionSystem\models\student_performance_model.joblib
+Evaluation metrics: {
+  "mae": 5.571360341648412,
+  "mse": 47.636180854111316,
+  "rmse": 6.901896902599409,
+  "r2": 0.647376867800679
+}
+Demo prediction score: 97.58
+Demo prediction band: Safe
+EDA plots: ['D:\\IIP_Projects\\StudentPerformancePredictionSystem\\images\\final_score_distribution.png', 'D:\\IIP_Projects\\StudentPerformancePredictionSystem\\images\\correlation_heatmap.png', 'D:\\IIP_Projects\\StudentPerformancePredictionSystem\\images\\performance_level_distribution.png']
+Model plots: ['D:\\IIP_Projects\\StudentPerformancePredictionSystem\\images\\actual_vs_predicted.png', 'D:\\IIP_Projects\\StudentPerformancePredictionSystem\\images\\residual_distribution.png', 'D:\\IIP_Projects\\StudentPerformancePredictionSystem\\images\\feature_importance.png']
